@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "3.10.15",
+  "startedAt":  "2024-11-18T16:45:55.856371Z",
+  "program":  "D:\\Desktop\\neural network\\model\\imagenet.py",
+  "codePath":  "imagenet.py",
+  "email":  "3100466416@qq.com",
+  "root":  "D:\\Desktop\\neural network\\model",
+  "host":  "LZH",
+  "username":  "31004",
+  "executable":  "C:\\Users\\31004\\.conda\\envs\\pytorch\\python.exe",
+  "codePathLocal":  "imagenet.py",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "772188139520",
+      "used":  "486246649856"
+    }
+  },
+  "memory":  {
+    "total":  "16907100160"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  16
+  }
+}

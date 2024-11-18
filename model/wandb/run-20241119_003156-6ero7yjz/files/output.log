@@ -1,0 +1,8 @@
+Epoch 1/30
+  0%|          | 0/13 [00:37<?, ?it/s]
+Traceback (most recent call last):
+  File "D:\Desktop\neural network\model\imagenet.py", line 265, in <module>
+    main()
+  File "D:\Desktop\neural network\model\imagenet.py", line 230, in main
+    log_train = train_one_batch(images, labels, batch_idx, epoch)  # 传递 batch_idx 和 epoch
+TypeError: main.<locals>.train_one_batch() takes 2 positional arguments but 4 were given

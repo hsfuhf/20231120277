@@ -1,0 +1,129 @@
+Epoch 1/30
+100%|██████████| 13/13 [00:53<00:00,  4.15s/it]
+Labels range: 0 4
+Predictions range: 0 3
+保存新的最佳模型 checkpoint/best-0.370.pth
+Epoch 2/30
+100%|██████████| 13/13 [00:53<00:00,  4.15s/it]
+Labels range: 0 4
+Predictions range: 0 4
+保存新的最佳模型 checkpoint/best-0.870.pth
+Epoch 3/30
+100%|██████████| 13/13 [00:54<00:00,  4.16s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 4/30
+100%|██████████| 13/13 [01:06<00:00,  5.10s/it]
+Labels range: 0 4
+Predictions range: 0 4
+保存新的最佳模型 checkpoint/best-0.900.pth
+Epoch 5/30
+100%|██████████| 13/13 [01:05<00:00,  5.02s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 6/30
+100%|██████████| 13/13 [01:26<00:00,  6.69s/it]
+Labels range: 0 4
+Predictions range: 0 4
+保存新的最佳模型 checkpoint/best-0.980.pth
+Epoch 7/30
+100%|██████████| 13/13 [01:04<00:00,  5.00s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 8/30
+100%|██████████| 13/13 [01:04<00:00,  4.98s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 9/30
+100%|██████████| 13/13 [01:04<00:00,  4.96s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 10/30
+100%|██████████| 13/13 [01:06<00:00,  5.11s/it]
+Labels range: 0 4
+Predictions range: 0 4
+保存新的最佳模型 checkpoint/best-0.990.pth
+Epoch 11/30
+100%|██████████| 13/13 [00:56<00:00,  4.32s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 12/30
+100%|██████████| 13/13 [01:04<00:00,  4.99s/it]
+Labels range: 0 4
+Predictions range: 0 4
+保存新的最佳模型 checkpoint/best-1.000.pth
+Epoch 13/30
+100%|██████████| 13/13 [00:56<00:00,  4.34s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 14/30
+100%|██████████| 13/13 [00:52<00:00,  4.03s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 15/30
+100%|██████████| 13/13 [00:52<00:00,  4.06s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 16/30
+100%|██████████| 13/13 [00:56<00:00,  4.36s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 17/30
+100%|██████████| 13/13 [01:41<00:00,  7.81s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 18/30
+100%|██████████| 13/13 [01:51<00:00,  8.59s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 19/30
+100%|██████████| 13/13 [01:41<00:00,  7.77s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 20/30
+100%|██████████| 13/13 [00:56<00:00,  4.38s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 21/30
+100%|██████████| 13/13 [00:53<00:00,  4.13s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 22/30
+100%|██████████| 13/13 [00:53<00:00,  4.15s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 23/30
+100%|██████████| 13/13 [00:53<00:00,  4.12s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 24/30
+100%|██████████| 13/13 [01:46<00:00,  8.17s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 25/30
+100%|██████████| 13/13 [01:08<00:00,  5.26s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 26/30
+100%|██████████| 13/13 [01:37<00:00,  7.52s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 27/30
+100%|██████████| 13/13 [01:13<00:00,  5.67s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 28/30
+100%|██████████| 13/13 [01:24<00:00,  6.49s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 29/30
+100%|██████████| 13/13 [01:06<00:00,  5.11s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Epoch 30/30
+100%|██████████| 13/13 [00:59<00:00,  4.55s/it]
+Labels range: 0 4
+Predictions range: 0 4
+Labels range: 0 4
+Predictions range: 0 4
+{'epoch': 30, 'test_loss': 0.015380701, 'test_accuracy': 1.0, 'test_precision': 1.0, 'test_recall': 1.0, 'test_f1-score': 1.0}
